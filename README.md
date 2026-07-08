@@ -1,50 +1,84 @@
-<h1 align="center">Hi, I'm Harinath Raju Muppala 👋</h1>
-<h3 align="center">VLSI Physical Design Engineer | RTL-to-GDSII | Synopsys ICC2 · Fusion Compiler · PrimeTime · Calibre</h3>
+<div align="center">
 
-<p align="center">
-  📍 Bangalore / Hyderabad, India &nbsp;|&nbsp;
-  🎓 B.Tech ECE, RGUKT Nuzvid &nbsp;|&nbsp;
-  🧪 Advanced VLSI PD & Verification, Maven Silicon Softech
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=200&section=header&text=Harinath%20Raju%20Muppala&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=VLSI%20Physical%20Design%20Engineer&descAlignY=58&descSize=20" width="100%"/>
 
----
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://readme-typing-svg.demolab.com/?lines=RTL-to-GDSII+Physical+Design;Timing+Closure+%7C+DRC%2FLVS+Signoff;Synopsys+ICC2+%C2%B7+Fusion+Compiler+%C2%B7+PrimeTime;Open+to+Physical+Design+roles+%E2%86%92+Bangalore+%2F+Hyderabad&font=Fira+Code&center=true&width=600&height=40&color=38BDF8&vCenter=true&size=20"/>
+</a>
 
-### 🔧 About Me
+<br/>
 
-I'm a fresher-level Physical Design Engineer focused on **RTL-to-GDSII flows** — floorplanning, placement, CTS, routing, and timing closure — with hands-on experience taking a RISC-V core from RTL to a clean, sign-off-ready layout. I care about tight timing, clean DRC/LVS, and understanding *why* a fix works, not just applying it.
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/YOUR_USERNAME/rv32i-physical-design"><img src="https://img.shields.io/badge/Featured_Project-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-Currently open to **Entry-Level Physical Design Engineer** roles in Bangalore and Hyderabad.
+</div>
 
----
+<br/>
 
-### 🚀 Featured Project
+## 📌 About Me
 
-**RV32I RISC-V Core — Physical Design (32nm)**
-- Achieved **250 MHz** timing closure with **zero DRC/LVS violations**
-- Multi-power domain design using **UPF** (level shifters)
-- Full RTL-to-GDSII flow: synthesis, floorplanning, placement, CTS, routing, signoff
-- Tcl scripting used to automate synthesis and PnR steps
-- ~50K gate design, 0.65 mm² die area
+I'm a fresher-level **Physical Design Engineer** who takes RTL all the way to a clean, sign-off-ready GDSII — floorplanning, placement, CTS, routing, and timing closure. My flagship project took a **RV32I RISC-V core** through the full flow at 32nm, landing **250 MHz** timing closure with **zero DRC/LVS violations**.
 
-*https://github.com/harinath400/rv32i-physical-design*
+- 🎓 B.Tech ECE, RGUKT Nuzvid (CGPA 8.0)
+- 🧪 Advanced VLSI Physical Design & Verification — Maven Silicon Softech, Bangalore
+- 🎯 Currently targeting Entry-Level Physical Design roles in Bangalore / Hyderabad
+- 🧠 Strong physical intuition on floorplanning, IR drop, and macro placement fundamentals
 
----
+<br/>
 
-### 🛠️ Tools & Technologies
+## 🛠️ Tech Stack
 
-**Physical Design:** Synopsys ICC2 · Fusion Compiler · PrimeTime (STA)
-**Verification:** Siemens Calibre (DRC / LVS / ERC / Antenna)
-**Constraints & Scripting:** SDC · UPF · Tcl
-**Concepts:** MMMC, Floorplanning, CTS, Routing, IR Drop, Macro Placement
+<div align="center">
 
----
+**Physical Design & Signoff**
+<br/>
+<img src="https://img.shields.io/badge/Synopsys_ICC2-0057B8?style=flat-square"/>
+<img src="https://img.shields.io/badge/Fusion_Compiler-0057B8?style=flat-square"/>
+<img src="https://img.shields.io/badge/PrimeTime_STA-0057B8?style=flat-square"/>
+<img src="https://img.shields.io/badge/Calibre_DRC%2FLVS-00843D?style=flat-square"/>
 
-### 📫 Connect with Me
+**Constraints & Scripting**
+<br/>
+<img src="https://img.shields.io/badge/SDC-1E293B?style=flat-square"/>
+<img src="https://img.shields.io/badge/UPF-1E293B?style=flat-square"/>
+<img src="https://img.shields.io/badge/Tcl-3E4A89?style=flat-square&logo=tcl&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux%2FShell-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 
-- LinkedIn: *[add your profile URL]*
-- Email: *[add your email]*
+</div>
 
-<!--
-Optional add-ons once you have more repos:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
--->
+<br/>
+
+## 🚀 Featured Project
+
+<div align="center">
+
+### RV32I RISC-V Core — Physical Design (32nm)
+
+| Metric | Result |
+|:---|:---:|
+| Frequency | **250 MHz** |
+| Timing Closure | ✅ Zero violations |
+| DRC / LVS | ✅ 0 / 0 |
+| Gate Count | ~50K |
+| Die Area | 0.65 mm² |
+| Power | Multi-domain (UPF, level shifters) |
+
+**[→ View Full Project](https://github.com/YOUR_USERNAME/rv32i-physical-design)**
+
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="48%"/>
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0f172a&height=100&section=footer"/>
+</div>
