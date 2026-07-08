@@ -26,7 +26,7 @@ Currently open to **Entry-Level Physical Design Engineer** roles in Bangalore an
 - Tcl scripting used to automate synthesis and PnR steps
 - ~50K gate design, 0.65 mm² die area
 
-*(👉 Add the project repo link here once uploaded — this is the #1 thing recruiters look for after your resume)*
+*https://github.com/harinath400/rv32i-physical-design*
 
 ---
 
