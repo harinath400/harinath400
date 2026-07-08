@@ -1,49 +1,50 @@
-# RV32I RISC-V Core — Physical Design (RTL-to-GDSII)
+<h1 align="center">Hi, I'm Harinath Raju Muppala 👋</h1>
+<h3 align="center">VLSI Physical Design Engineer | RTL-to-GDSII | Synopsys ICC2 · Fusion Compiler · PrimeTime · Calibre</h3>
 
-Physical design implementation of a 32-bit RISC-V (RV32I) core, taken from synthesizable RTL through to a sign-off-ready layout at 32nm.
+<p align="center">
+  📍 Bangalore / Hyderabad, India &nbsp;|&nbsp;
+  🎓 B.Tech ECE, RGUKT Nuzvid &nbsp;|&nbsp;
+  🧪 Advanced VLSI PD & Verification, Maven Silicon Softech
+</p>
 
-## 🎯 Results
+---
 
-| Metric | Result |
-|---|---|
-| Target frequency | 250 MHz |
-| Timing closure | ✅ Achieved (zero setup/hold violations) |
-| DRC violations | 0 |
-| LVS violations | 0 |
-| Gate count | ~50K |
-| Die area | 0.65 mm² |
-| Power domains | Multi-domain (UPF, level shifters) |
+### 🔧 About Me
 
-## 🔧 Flow & Tools
+I'm a fresher-level Physical Design Engineer focused on **RTL-to-GDSII flows** — floorplanning, placement, CTS, routing, and timing closure — with hands-on experience taking a RISC-V core from RTL to a clean, sign-off-ready layout. I care about tight timing, clean DRC/LVS, and understanding *why* a fix works, not just applying it.
 
-- **Synthesis & PnR:** Synopsys Fusion Compiler
-- **Static Timing Analysis:** Synopsys PrimeTime
-- **Physical Verification:** Siemens Calibre (DRC / LVS / ERC / Antenna) + ICC2 built-in checks
-- **Low Power:** UPF (Unified Power Format) — level shifters for multi-voltage domains
-- **Scripting:** Tcl automation for synthesis and place-and-route steps
+Currently open to **Entry-Level Physical Design Engineer** roles in Bangalore and Hyderabad.
 
-## 🪜 Flow Stages
+---
 
-1. **RTL & Synthesis** — RV32I RTL synthesized with Fusion Compiler, SDC constraints for target clock/IO timing
-2. **Floorplanning** — Core area planning, power grid (rings/straps), pin placement
-3. **Placement** — Standard cell placement with congestion and timing-driven optimization
-4. **Clock Tree Synthesis (CTS)** — Balanced clock tree to minimize skew and insertion delay
-5. **Routing** — Signal + power routing with DRC-clean results
-6. **Signoff** — STA (PrimeTime) for timing closure, Calibre for DRC/LVS/ERC/antenna checks
+### 🚀 Featured Project
 
-## 📁 Repo Structure
+**RV32I RISC-V Core — Physical Design (32nm)**
+- Achieved **250 MHz** timing closure with **zero DRC/LVS violations**
+- Multi-power domain design using **UPF** (level shifters)
+- Full RTL-to-GDSII flow: synthesis, floorplanning, placement, CTS, routing, signoff
+- Tcl scripting used to automate synthesis and PnR steps
+- ~50K gate design, 0.65 mm² die area
 
-```
-rv32i-physical-design/
-├── rtl/                # RV32I core RTL source
-├── constraints/        # SDC timing constraints
-├── upf/                # Power intent (UPF) files
-├── scripts/            # Tcl scripts for synthesis & PnR
-├── reports/            # Timing, DRC, LVS, power reports
-├── docs/                # Flow writeup, floorplan diagrams, screenshots
-└── README.md
-```
+*(👉 Add the project repo link here once uploaded — this is the #1 thing recruiters look for after your resume)*
 
-## 📝 Notes
+---
 
-This project was completed as part of Advanced VLSI Physical Design & Verification training. RTL source is for portfolio/demonstration purposes.
+### 🛠️ Tools & Technologies
+
+**Physical Design:** Synopsys ICC2 · Fusion Compiler · PrimeTime (STA)
+**Verification:** Siemens Calibre (DRC / LVS / ERC / Antenna)
+**Constraints & Scripting:** SDC · UPF · Tcl
+**Concepts:** MMMC, Floorplanning, CTS, Routing, IR Drop, Macro Placement
+
+---
+
+### 📫 Connect with Me
+
+- LinkedIn: *[add your profile URL]*
+- Email: *[add your email]*
+
+<!--
+Optional add-ons once you have more repos:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+-->
