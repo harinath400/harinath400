@@ -64,7 +64,7 @@ I'm a fresher-level **Physical Design Engineer** who takes RTL all the way to a 
 | Die Area | 0.65 mm² |
 | Power | Multi-domain (UPF, level shifters) |
 
-**[→ View Full Project](https://github.com/YOUR_USERNAME/rv32i-physical-design)**
+**[→ View Full Project](https://github.com/harinath400/rv32i-physical-design)**
 
 </div>
 
